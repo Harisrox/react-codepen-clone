@@ -8,7 +8,6 @@ A lightweight, React-based CodePen clone for live-editing HTML, CSS, and JavaScr
 - 🔄 Real-time iframe preview
 - 💾 Auto-save to localStorage
 - 📌 Persistent state between sessions
-- 🖼️ Custom favicon support
 - 🎨 Simple, clean UI (CSS-based)
 
 ## 📸 Preview
