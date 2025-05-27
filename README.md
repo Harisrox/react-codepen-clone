@@ -13,7 +13,7 @@ A lightweight, React-based CodePen clone for live-editing HTML, CSS, and JavaScr
 
 ## 📸 Preview
 
-![Screenshot](screenshot.png)  
+![Screenshot](screenshot.PNG)  
 _Or fire it up locally to try it out yourself._
 
 ## 🛠️ Built With
