@@ -26,7 +26,7 @@ _Or fire it up locally to try it out yourself._
 Clone the repo and start the dev server:
 
 ```bash
-git clone https://github.com/your-username/codepen-clone.git
+git clone https://github.com/harisrox/codepen-clone.git
 cd codepen-clone
 npm install
 npm start
